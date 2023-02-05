@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+nav{
+    background-color: rgb(219, 179, 186);
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+li{
+    font-size: 40px;
+    padding: 80px;
+    font-style: italic;
+    font-weight: bold;
+    display: inline;   
+}
